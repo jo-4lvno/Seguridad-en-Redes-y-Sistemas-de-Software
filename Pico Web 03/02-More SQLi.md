@@ -2,6 +2,6 @@
 **Descripción** 
 
 
-**Solución**  
+**Solución**
 
 
