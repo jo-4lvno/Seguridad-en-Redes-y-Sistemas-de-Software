@@ -8,49 +8,62 @@
         "type": "tabs",
         "children": [
           {
-            "id": "2c910df555f97a18",
+            "id": "e6785f7e62a01e1e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "23-picoCTF Reversing-Parte3/01- asm1.md",
+                "file": "09-picoCTF Web-Parte1/06- Client-side-again.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "01- asm1"
+              "title": "06- Client-side-again"
             }
           },
           {
-            "id": "d307b0a9b3b36181",
+            "id": "d1f77485fc3b966c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "23-picoCTF Reversing-Parte3/02- asm2.md",
+                "file": "09-picoCTF Web-Parte1/03- logon.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "02- asm2"
+              "title": "03- logon"
             }
           },
           {
-            "id": "dcc4c746801958fb",
+            "id": "ba83e87413854540",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "23-picoCTF Reversing-Parte3/02- asm2.md",
+                "file": "09-picoCTF Web-Parte1/06- Client-side-again.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "02- asm2"
+              "title": "06- Client-side-again"
+            }
+          },
+          {
+            "id": "3db8265272068aa4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "09-picoCTF Web-Parte1/03- logon.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "03- logon"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -212,12 +225,22 @@
       "bases:Crear nueva base": false
     }
   },
-  "active": "dcc4c746801958fb",
+  "active": "e6785f7e62a01e1e",
   "lastOpenFiles": [
-    "23-picoCTF Reversing-Parte3/01- asm1.md",
-    "23-picoCTF Reversing-Parte3/03- asm3.md",
+    "09-picoCTF Web-Parte1/05- picobrowser.md",
+    "09-picoCTF Web-Parte1/04- dont-use-client-side.md",
+    "Pico Web 03/01-Irish-Name-Repo 1.md",
+    "Pico Web 03/02-More SQLi.md",
+    "Pico Web 03/03-JaWT Scratchpad.md",
+    "09-picoCTF Web-Parte1/03- logon.md",
+    "09-picoCTF Web-Parte1/01- Insp3ctor.md",
     "23-picoCTF Reversing-Parte3/02- asm2.md",
+    "23-picoCTF Reversing-Parte3/01- asm1.md",
+    "09-picoCTF Web-Parte1/02- where are the robots.md",
+    "09-picoCTF Web-Parte1/06- Client-side-again.md",
     "Plantilla.md",
+    "09-picoCTF Web-Parte1",
+    "23-picoCTF Reversing-Parte3/03- asm3.md",
     "21-picoCTF Reversing-Parte1/05-vault-door-5.md",
     "23-picoCTF Reversing-Parte3",
     "21-picoCTF Reversing-Parte1/04-vault-door-3.md",
@@ -236,21 +259,11 @@
     "18-picoCTF Crypto-Parte2/01- Prueba sorpresa de RSA.md",
     "20-picoCTF Crypto-Parte4",
     "18-picoCTF Crypto-Parte2",
-    "17-picoCFT Crypto-Parte1/08- Intercencdec.md",
     "PrimerExamen/2- Web/Invitación Fiesta de Cumpleaños Mujer Femenino Coquette Collage Fotográfico Rosa.jpg",
-    "17-picoCFT Crypto-Parte1/07- Waves over lambda.md",
-    "17-picoCFT Crypto-Parte1/06- Tapping.md",
-    "17-picoCFT Crypto-Parte1/05- La cifra de.md",
-    "17-picoCFT Crypto-Parte1/04- Easy 1.md",
-    "17-picoCFT Crypto-Parte1/03- Caesar.md",
-    "17-picoCFT Crypto-Parte1/02- 13.md",
-    "17-picoCFT Crypto-Parte1/01- The numbers.md",
     "17-picoCFT Crypto-Parte1/Sin nombre/Sin nombre 1/Sin nombre 6",
     "17-picoCFT Crypto-Parte1/Sin nombre/Sin nombre 1/Sin nombre 5",
     "17-picoCFT Crypto-Parte1/Sin nombre/Sin nombre 1/Sin nombre 4",
     "17-picoCFT Crypto-Parte1/Sin nombre/Sin nombre 1/Sin nombre 3",
-    "17-picoCFT Crypto-Parte1/Sin nombre/Sin nombre 1/Sin nombre 2",
-    "17-picoCFT Crypto-Parte1/Sin nombre/Sin nombre 1",
-    "Tarea 4- Forensic/01- Information.md"
+    "17-picoCFT Crypto-Parte1/Sin nombre/Sin nombre 1/Sin nombre 2"
   ]
 }
